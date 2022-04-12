@@ -3,8 +3,8 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-austinmacmath/branch/main/graph/badge.svg?token=T2pv8co1jR)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-austinmacmath)
 
 Storybook is here:
-* Production: <https://ucsb-cs156-s22.github.io/demo-spring-react-example-docs/>
-* QA:  <https://ucsb-cs156-s22.github.io/demo-spring-react-example-docs-qa/>
+* Production: <https://ucsb-cs156-s22.github.io/jpa03-austinmacmath-docs/>
+* QA: <https://ucsb-cs156-s22.github.io/jpa03-austinmacmath-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
